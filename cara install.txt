@@ -1,0 +1,5 @@
+npm install dotenv axios uuid fs
+
+Gift me kopi bang
+
+089628979036 DANA MUHAMMAD FIKRI THANKS
